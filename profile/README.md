@@ -1,6 +1,6 @@
 # 3 группа:
-- Кудряшов Никита - тимлид
+- Кудряшов Никита - тимлид [@TiaYeah](https://github.com/TiaYeah)
 - Карепанова Ксения
-- Шихотова Мария
+- Шихотова Мария [@shikmasha](https://github.com/shikmasha)
 - Куликов Александр
-- Сметанина Екатерина
+- Сметанина Екатерина [@smetanaem](https://github.com/smetanaem)
